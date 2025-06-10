@@ -18,8 +18,8 @@ After getting introduced to the idea of qubits and circuits, I wanted to go deep
 ---
 
 ## What I Learned  
-- The Hadamard gate still trips me out — it turns a basic 0 into a superposition of 0 and 1. Like flipping a coin but keeping it spinning.  
-- CNOT was my favorite today. It’s like an IF-THEN for quantum states, and it’s what allows *entanglement* — the spooky quantum behavior everyone talks about.  
+- The Hadamard gate still trips me out it turns a basic 0 into a superposition of 0 and 1. Like flipping a coin but keeping it spinning.  
+- CNOT was my favorite today. It’s like an IF-THEN for quantum states, and it’s what allows *entanglement* the spooky quantum behavior everyone talks about.  
 - Circuit diagrams helped a lot. Visualizing how gates flow and how qubits interact made it feel less like magic and more like real computation.
 
 ---

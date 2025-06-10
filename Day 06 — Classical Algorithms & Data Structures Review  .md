@@ -5,7 +5,7 @@
 ---
 
 ## What I Set Out to Do  
-Revisited the core building blocks of classical computing — algorithms and data structures. I wanted to refresh my mind before stepping into quantum territory. It’s wild how much of this I’d forgotten, but also cool how quickly it came back.
+Revisited the core building blocks of classical computing algorithms and data structures. I wanted to refresh my mind before stepping into quantum territory. It’s wild how much of this I’d forgotten, but also cool how quickly it came back.
 
 ---
 
@@ -17,9 +17,9 @@ Revisited the core building blocks of classical computing — algorithms and dat
 ---
 
 ## What I Learned  
-- Big-O isn’t just a nerdy notation — it literally defines how well your code scales. It’s the difference between an app that works and one that crashes with big data.  
-- Sorting algorithms are like battle-tested recipes — simple ones like Bubble Sort are easy to understand but inefficient, while Merge and Quick Sort are optimized and elegant.  
-- It’s weirdly satisfying to trace the steps of a binary search — I now understand how much faster it is than just looking through everything.
+- Big-O isn’t just a nerdy notation it literally defines how well your code scales. It’s the difference between an app that works and one that crashes with big data.  
+- Sorting algorithms are like battle-tested recipes simple ones like Bubble Sort are easy to understand but inefficient, while Merge and Quick Sort are optimized and elegant.  
+- It’s weirdly satisfying to trace the steps of a binary search I now understand how much faster it is than just looking through everything.
 
 ---
 
